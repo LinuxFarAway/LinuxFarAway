@@ -1,6 +1,12 @@
 - 👋 Hi, I’m @LinuxFarAway
 - 👀 I’m interested in Video Games
 - 🌱 I’m currently learning C
+#include <stdio.h>
+
+int main(void)
+{
+    printf("hello, world\n");
+}
 - 💞️ I’m looking to collaborate on X
 - 📫 How to reach me? @_ilyass44 on insta
 - 😄 Pronouns: what are those?
