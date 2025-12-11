@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @LinuxFarAway
 - 👀 I’m interested in Video Games
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on X
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me? @_ilyass44 on insta
-- 😄 Pronouns: what are those?
 - ⚡ Fun fact: Alexa is always listening to your conversations.
 
 <!---
